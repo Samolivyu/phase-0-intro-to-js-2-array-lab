@@ -28,10 +28,10 @@ console.log(cats);
 //destructivelyRemoveFirstCat
 
 reset ();
-cats.pop
+cats.pop ()
 console.log (cats);
 //appendCat
 reset();
-cats.shift;
+cats.shift ();
 console.log(cats);
 //prependCat
